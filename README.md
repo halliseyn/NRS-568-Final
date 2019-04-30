@@ -1,4 +1,4 @@
-# NRS-568-Final
+# NRS 568 Final
 **Final project for NRS 568 ArcGIS_Python (URI)**
 
 Author: Noah Hallisey, 4/30/2019
