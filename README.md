@@ -3,7 +3,7 @@
 
 Author: Noah Hallisey, 4/30/2019
 
-All tools released under MIT licesnse, and no warranty is implied
+All tools released under MIT license, and no warranty is implied
 
 This ArcGIS 10.x toolbox takes point data and clips it to a geographic boundary, identifies intersection of point data to a shapefile, and then calculates the density of the points to create a raster surface. Intended uses of this toolbox could include identifying coastal structures at riok of binge inundated from sea level rise or storm events using a polygon sufrace for predicted sea level rise or storm surge. 
 
