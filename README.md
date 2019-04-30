@@ -9,8 +9,8 @@ This ArcGIS 10.x toolbox takes point data and clips it to a geographic boundary,
 
 Included is sample data for the town of Charlestown, Rhode Island. 
 Datasets include:
-* Coastal structres (E911 Sites)
-* Charlestown Boundry
+* Coastal structures (E911 Sites)
+* Charlestown boundry
 * 7 ft SLR
 
  Tools included in the toolbox:
